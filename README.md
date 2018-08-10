@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/ezgif.com-video-to-gif.gif" alt="App"></p>
+<p align="center"><img src="/images/gif.gif" alt=""/></p>
 
 <br/>
 
@@ -15,7 +15,7 @@ First you need to install dependencies:
 
 In the project directory, you can run:
 
-### `node start`
+### `npm start`
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) in the browser.<br>
