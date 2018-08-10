@@ -1,4 +1,4 @@
-<p align="center"><img src="/images/gif.gif" alt=""/></p>
+![](gif.gif)
 
 <br/>
 
